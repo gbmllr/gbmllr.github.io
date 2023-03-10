@@ -7,7 +7,7 @@ permalink: /gorlaeus/
 A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1620). It has been generated from an OCR of a scan [available on google books](https://books.google.nl/books?id=rQ9NR8CdPIIC&pg=PP7). At the beginning of  each new page, the page number is inserted in brackets. Missing letters have also been added in brackets, whereas abbreviated words have been silently expanded. Ligatures have been generally dissolved (e.g. æ to ae), and accents removed. The spelling of words using u and v has also been normalized, and occurrences of long ſ have been replaced with "s" throughout. Page breaks reflect the layout of the source, as does *italicized* text. **Bold** emphasis is my addition.
 
 –
-<center>
+<div text-align="center" white-space="pre-wrap">
 Davidis Gorlaei
 Ultraiectini
 Exercitationes Philo-
@@ -15,8 +15,8 @@ sophicae quibus universa fere
 discutitur Philosophia
 Theoretica.
 ET
-*Plurima ac praecipua Peripateticorum
-dogmata evertuntur.*
+<i>Plurima ac praecipua Peripateticorum
+dogmata evertuntur.</i>
 
 Post mortem auctoris editae cum
 gemino indice
@@ -26,7 +26,7 @@ Fabri Fimus
 
 In Bibliopolio Commeliniano
 sumptibus viduae Ioannis Comelini. 1620.
-</center>
+</div>
 
 [Ex. Biblioth. Viri Illust. Isaaci Vossii.]
 
