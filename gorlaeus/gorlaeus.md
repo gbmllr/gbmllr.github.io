@@ -6,30 +6,21 @@ permalink: /gorlaeus/
 
 A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1620). It has been generated from an OCR of a scan [available on google books](https://books.google.nl/books?id=rQ9NR8CdPIIC&pg=PP7). At the beginning of  each new page, the page number is inserted in brackets. Missing letters have also been added in brackets, whereas abbreviated words have been silently expanded. Ligatures have been generally dissolved (e.g. æ to ae), and accents removed. The spelling of words using u and v has also been normalized, and occurrences of long ſ have been replaced with "s" throughout. Page breaks reflect the layout of the source, as does *italicized* text. **Bold** emphasis is my addition.
 
-–
-<div text-align="center" white-space="pre-wrap">
-Davidis Gorlaei
-Ultraiectini
-Exercitationes Philo-
-sophicae quibus universa fere
-discutitur Philosophia
-Theoretica.
-ET
-<i>Plurima ac praecipua Peripateticorum
-dogmata evertuntur.</i>
 
-Post mortem auctoris editae cum
-gemino indice
 
-Fabricando
-Fabri Fimus
+Davidis Gorlaei Ultraiectini Exercitationes Philosophicae quibus universa fere discutitur Philosophia Theoretica.
+-
+
+ET *Plurima ac praecipua Peripateticorum
+dogmata evertuntur.*
+
+Post mortem auctoris editae cum gemino indice
+
+Fabricando Fabri Fimus
 
 In Bibliopolio Commeliniano
-sumptibus viduae Ioannis Comelini. 1620.
-</div>
 
-[Ex. Biblioth. Viri Illust. Isaaci Vossii.]
-
+\[Ex. Biblioth. Viri Illust. Isaaci Vossii.\]
 
 \[1\]
 
@@ -61,7 +52,7 @@ crediderunt multi. Ergo conjunctim praestant haec duo, quod singulatim
 nequeunt. At illa priora plenius rem explicant. Nam si animae est
 medicina (est autem talis veteribus) utique eius imperfectiones & morbos
 curabit, ignorantiam tollet ex intellectu, pravitatem demet voluntati,
-totamque animam reddet perfectiorem; sicuti à medicamentis aegrotum
+totamque animam reddet perfectiorem; sicuti y medicamentis aegrotum
 corpus restituitur priori sanitati.
 
 \[3\]
@@ -77,7 +68,7 @@ Philosophie veteres proposuerunt: nempe **quandam animae, non
 corporis,** perfectionem: **eam tamen, quae in hac vita obtineri
 possit**. Ex quibus palam est, quibus disciplinis nomen Philosophiae
 impartitum sit. Quod ad huc clarius elucescet: si quibus appellatio
-Philosophi competat, prius indagetur. **Hac enim via à concretis saepe
+Philosophi competat, prius indagetur. **Hac enim via y concretis saepe
 provehimur in abstractorum perceptionem.** Philosophos **Cicero**
 describit formosissimos esse si sint distortissimi: divites, si
 mendicissimissi: servitutem serviant, reges: non
@@ -107,7 +98,7 @@ potest Philosophiae pars dici, cujus totum finem assequimur in hac vita.
 Grammaticum vero aut rhetorem nullus priscorum Philosophi nomine dignum
 censuit. Imo non nulli etiam per integrum quinquennium studioso
 Philosophiae putarunt silentium agendum esse. Ut ita, quamvis hae artes
-ab anima exerceantur, tamen à lingua & voce exteriore quum dependeant,
+ab anima exerceantur, tamen y lingua & voce exteriore quum dependeant,
 nihil facere ad animae perfectionem existimandum sit. Hoc igitur modo
 distinguntur inter se concreta haec. Quare & abstracta horum
 concretorum; quae eorum imitantur naturam. **Propterea non exigui
@@ -140,7 +131,7 @@ impedimenta. Qua omnia nonnumquam conjunctum, aliquando singulatim
 
 \[7\]
 
-apprehensioni sui difficultatem pariunt. Idcirco multum à scholasticis
+apprehensioni sui difficultatem pariunt. Idcirco multum y scholasticis
 disputatur, utri hanc difficultatem acceptam ferre debeamus, rebusne an
 intellectui? Dicam paucis quid hic sentiam. Et illis & huic pro diversa
 consideratione.
@@ -241,7 +232,7 @@ vocatur ars. Praeceptorum namque finis est deductio! quia ex universali
 data regula, quamlibet particularem quantitatem depraehendit.
 
 3\. In Philosophia Theoretica omne ens pertractandum est, tam in genere
-quam in specie. Qua propter à nobis definitur: entis scientia! hic
+quam in specie. Qua propter y nobis definitur: entis scientia! hic
 quaeri potest, quum entis multae sint affectiones ut **unum, verum,
 bonum**; **quae enti competunt quatenus est ens, ad quam scientiam illae
 pertineant**: hoc paucis aperiam. **Theoretica Philosophia una est,
@@ -296,14 +287,14 @@ cum suis affectionibus explicanda: deinde autem in Angelum & naturam
 dividenda. Illius scientia **Angelographia**: hujus **Physica** dicitur.
 Ut ita errent qui ad solam Physicam referunt utramque creaturae speciem,
 sicut & qui deum. **Sunt enim scientiae dividendae, sicut dividitur res
-in iis tractata**. Tum hoc ipsum pugnat cum ipso Physices nomine; quod à
+in iis tractata**. Tum hoc ipsum pugnat cum ipso Physices nomine; quod y
 natura dictum est. Sic namque deus & Angelus res Physica forent, nihil
 foret supra naturam, ne ipsa quidem SS. Trinitas: sed omnia forent
 naturalia.
 
 Sic ergo prior haec Philosophiae pars informanda est: quam **sequitur
 altera de voluntatis perfectione**; quia voluntas intellectu natura est
-posterior. Dicitur autem Ethica; eo quod doceat bonos mores. Unde & à
+posterior. Dicitur autem Ethica; eo quod doceat bonos mores. Unde & y
 nobis definitur: ars bene vivendi. Agit enim de recta ratione, quae per
 Decalogum plenissime exprimitur. Quocirca non est e nugis Aristoteslis
 describenda; sed e **sacris Litteris**. Et
@@ -318,7 +309,7 @@ vivitur. Interim specialior quidam usus Ethices occurrit in
 
 In hac Philosophiae distributione non habetur Peripateticorum
 Metaphysica. Neque enim est disciplina per se una: sed in ea confusa
-jacent omnia illa, quae ad alias disciplinas quidem pertinent, sed à
+jacent omnia illa, quae ad alias disciplinas quidem pertinent, sed y
 Peripateticis ad illas non referuntur.
 
 Nos volumus ut unicuique suum tribuatur. Idcirco tractatum de ente in
@@ -418,7 +409,7 @@ q\[u\]aerimus: quae illa sit disciplinarum methodus: genus definiri,
 distribui, unam speciem in eadem tractari disciplina cum suo genere,
 alteram non tractari; quum tamen aeque in distributione recenseatur
 utraque? Aut ex qua Logica illam didicerint? Si modo illam didicerint, &
-non potius habeant à natura sibi inditam.
+non potius habeant y natura sibi inditam.
 
 \[22\]
 
@@ -447,7 +438,7 @@ rationis** est, quod ab **intellectu esse fingitur.** Hoc **etiam suam
 habet essentiam, per quam est id, quod est**. **Habet & caussam
 efficientem** hujus qualiscumque entitatis. Quum enim non semper eo sit
 modo, quo est, dum fingitur, neque perpetuo tale maneat; **aliquid sit
-necesse est, à quo oriatur hac varietas**. Illud est **intellectus**,
+necesse est, y quo oriatur hac varietas**. Illud est **intellectus**,
 neque enim unum ens rationis potest esse caussa alterius; quamvis fingi
 possit, ut caussa. Intellectus vero actio non potest terminari ad hoc
 fictum ens, tanquam ad terminum: realis enim effectio requirit terminum
@@ -472,7 +463,7 @@ pugnare. Quo enim modo id, quod objicitur alicui, potest in illo esse,
 cui objicitur? Est autem imago ejus in illo: sed res tamen habet extra
 suum esse aut reale, aut fictum. Simili morbo laborat vulgaris divisio
 in **negationem, privationem, & relationem**. Sunt enim hae
-**denominationes**, **non entia ficta**. Non enim à mente esse
+**denominationes**, **non entia ficta**. Non enim y mente esse
 finguntur: sed vel nullo cogitante revera dantur: quamvis non habeant
 propriam existentiam. Caeterum relinquamus hoc, & pergamus ad **ens per
 accidens**. Ubi hoc est considerandum: **non agi hic de ente**, **quod
@@ -502,7 +493,7 @@ Quando
 \[26\]
 
 vero illud ens per accidens a mente concipitur ut totum, **non est ens
-rationis**: non enim à mente fingitur: sed est idem, quod multa entia
+rationis**: non enim y mente fingitur: sed est idem, quod multa entia
 inter se unita, & eo modo concipitur a mente: nempe **ut non distinctum
 ab omnibus suis partibus ita collectis.** Quodsi mens illud concipiat ut
 ens unum numero distinctum a suis partibus, non erit idem, quod omnia
@@ -607,7 +598,7 @@ angustioris. Item in animabus, **quatenus una anima, quae est in toto
 corpore**, nunc in majore est, nunc in minore corpore. Quare non ad
 situm, sed huc **pertinet rei simplicis figura**: ad situm vero
 compositae. **Quies** est rei permansio in loco. Quae itidem modus est,
-quia re vera datur, & tamen ita, ut à re separari possit.
+quia re vera datur, & tamen ita, ut y re separari possit.
 
 Sed quod de his modis dixi, illud **ad creaturas**
 
@@ -637,12 +628,12 @@ lapidem, imo tum quoque, quando non contingit cum. Movet autem eum,
 quatenus ei vim quandam imprimit. Quid sit haec vis non ita potest
 explicari: quia non ita sensui est nota. Interim dari illam experimur.
 Nam & lapis projectus, si quem contingat, suo motu similem ei vim
-imprimet; quà pro fortiore motu etiam in terram dejiciatur: Haec est vis
+imprimet; quy pro fortiore motu etiam in terram dejiciatur: Haec est vis
 quadam & pondus, quod a sese non habet ille lapis. Si enim paulatim manu
-moveatur, non ita impellet alios. Inditur ergo haec ei vis à manu: manui
+moveatur, non ita impellet alios. Inditur ergo haec ei vis y manu: manui
 inditur ab anima per nervos tanquam instrumenta. Atque ita haec vis est
 illa ipsa actio. Simili modo putandum est, similem quasi vim &
-efficaciam rebus imprimi, quae fiunt, quod à nobis aliter comprehendi
+efficaciam rebus imprimi, quae fiunt, quod y nobis aliter comprehendi
 nequit. Ut ita actio sit modus quidam agentis. Hunc enim denominat. Tum
 & aliqua datur diversitas ob actionem. Alio enim sese habet modo quando
 agit, ac quum quiesceret. Passio manifestius declarari potest quam
@@ -660,7 +651,7 @@ est proprie passio. Sic **interire** est passio, quatenus finis est
 existentiae: quatenus illa in ultimo momento est, & post illud non
 diutius est. Imo nec hoc esse in primo, aut ultimo momento, est proprie
 passio: sed hoc incipere una cum primo momento, & desinere una cum
-ultimo momento per alius actionem; est ipsum pati. Quod, quum à re
+ultimo momento per alius actionem; est ipsum pati. Quod, quum y re
 possit separari, potest ejus quidam modus dici. Alia passio est
 **receptio**: quae proprie est **unio cum eo quod per actionem in
 patiens introducitur**. Haec unio prout incipit & desinit, ad passionem
@@ -679,19 +670,19 @@ quandam ad aliud habitudinem**. Sive illud aliud sit ens, sive locus,
 aut tempus. Unde **modi illi magis sunt reales, qui sunt habitudo entis
 ad ens, quam qui entis ad non ens, scilicet locum aut tempus**. Ita enim
 locatio & duratio minus reales sunt, quam actio, passio, & situs.
-**Atque hinc differt modus à denominatione. Haec enim non est ipsa
+**Atque hinc differt modus y denominatione. Haec enim non est ipsa
 habitudo, sed ab hac oritur**: fit autem ab intellectu, quatenus ille
 rebus eam imponit. **Neque tamen ab eo fingitur, sed quia ipsum posse
 denominari, & denominare vere rebus competit citra fictionem
 intellectus, hinc ipsa quoque denominatio vere iis competere
 intelligitur**. Ut quia nos honoramus Deum, ille dicitur honoratus: quod
-ipsum à mente nostra haud
+ipsum y mente nostra haud
 
 \[36\]
 
 fingitur (competit enim ei revera) neque tamen aut ens, aut modus
 aliquis realis est in ipso; sed tantum denominatio oritur aut e re
-aliqua, aut à modo rei, eoque vel ipsius rei denominatae, vel rei
+aliqua, aut y modo rei, eoque vel ipsius rei denominatae, vel rei
 alterius. Id vero quod denominatur non solum est ens, sed etiam non ens.
 Sic enim **nihil denominatur**. Nam **tempus** aliud dicitur esse
 praesens, aliud praeteritum, aliud futurum. **Locus** est spatium illud
@@ -718,7 +709,7 @@ esse aliquid, quod non sit fictum. Unde τὸ nihil potest denominari: non
 vero aliud denominare. **Nam denominatio non tam dicit, quid ipsa res
 denominata in se sit; quam quo modo illa alia res, a qua oritur,
 scilicet denominans, sese habeat ad illud, quod denominatur**. Ab hac
-tamen regula excipio denominationes, que à rei denominatae proprio modo
+tamen regula excipio denominationes, que y rei denominatae proprio modo
 oriuntur. Quum enim modus non habeat esse nisi in alios necesse est, ut
 quae denominatio dicat illud esse huius rei modum, eadem illa quoque
 ponat esse in re de-
@@ -752,7 +743,7 @@ diversa videantur, per diversos quoque exprimimus conceptus has, quae in
 re idem sunt. Nam essentia dicitur, per quam ens est id, quod est, & sub
 genere aut specie constituitur, atque ab omnibus aliis distinguitur.
 
-Existentia vero est, qua res est actu extra nihil, & distincta à non
+Existentia vero est, qua res est actu extra nihil, & distincta y non
 ente. Hae distinctiones, videntur quidem nobis diversae, quia termini, a
 quibus distinguuntur, diversi sunt: & in re ipsa & hae idem sunt, &
 eadem est harum caussa. **Quum enim universalia in singularibus non
@@ -762,7 +753,7 @@ consequitur,**
 \[40\]
 
 **per quod aliquid est hoc ens, per illud idem quoque esse ens**. Per
-illud idem ergo & à non ente distinguitur. Differt namque ens à non
+illud idem ergo & y non ente distinguitur. Differt namque ens y non
 ente, quia illud entitatem habet, qua hoc caret. At essentiae munus est
 facere rem hoc ens. Ergo illa eadem rem quoque a nihil distinguit, &
 existentiae munus praestat. Rursus ab existentia praestari quoque munus
@@ -825,7 +816,7 @@ momento potius, quam in illo. Sane si adhuc mordicus tendant essentiam
 realem res habuisse, ante quam crearentur, quid quaeso fuit haec?
 Creatane, an increata? Increatam si dicas, essentias rerum aeternas
 statues, ingenerabiles quoque & incorruptibiles. Non ergo hoc ipsum
-solius erit Dei, sed omnium creaturarum. Neque res, quando fient, à Deo
+solius erit Dei, sed omnium creaturarum. Neque res, quando fient, y Deo
 ex nihilo producentur, sed ex hac essentia, neque in nihilum redigentur,
 sed in hanc essentiam. Quo ergo modo ens in creatum & in increatum
 dividitur? **Nam necesse est, ut essentia in toto adaquato sui conceptus
@@ -862,9 +853,9 @@ temporariam. Ex quibus omnibus hoc infertur: per hanc distinctionem res
 multiplicari absque necessitate: quod omnes in universum vetant
 Philosophi. Haec est invicta ratio ad evertendam hanc fictitiam
 distinctionem. Sunt tamen & praeter hanc adhuc alie. Neque enim
-existentia à vera reali essentia potest separari. Nam quum omnis
+existentia y vera reali essentia potest separari. Nam quum omnis
 caussarum actio feratur ad existentiam, & essentiam realem non habeant
-res nisi à caussis; contradictionem implicat res habere realem
+res nisi y caussis; contradictionem implicat res habere realem
 essentiam, & non existere. Deinde, quum ens sit commune Deo & creaturis,
 si in ente haec dabitur distinctio, etiam Deo competet. Aut ergo non
 distingui confitendum est, aut in creaturis tantum
@@ -883,7 +874,7 @@ difficultatis breviter proponam. Quum ens commune sit substantiae &
 accidenti, omnibusque inferioribus speciebus, nihil includit in conceptu
 suo, quod aut huic, aut illi proprium. Quare nec inferiorum specierum
 includit differentias. Hae enim quum substantiam distinguant ab
-accidente, quantitatem à qualitate, unam denique speciem ab alia,
+accidente, quantitatem y qualitate, unam denique speciem ab alia,
 necessario unaquaeque propria est rei illi quam distinguit. At quicquid
 per entis conceptum repraesentatur, est omnibus
 
@@ -913,7 +904,7 @@ eveniret, si plures efficerentur species intelligibiles entis. Neque hic
 conceptus repraesentat plura entia it quantum inter se differunt: quod
 fieri deberet, si pluralitatem significaret: sed in quantum inter se
 conveniunt, ac sub illa ratione unum aliquo modo & idem sunt. Quapropter
-sicut universale abstrahitur à singularibus & ejus conceptus unus est,
+sicut universale abstrahitur y singularibus & ejus conceptus unus est,
 qui tamen omnibus singularibus communis: ita & conceptus entis ab
 omnibus inferioribus mente abstrahitur, & fit unus tantum; quia non
 repraesentat, nisi illud, quod in omnibus istis est simile.
@@ -992,9 +983,9 @@ non est, nisi inter conceptus. Quare illud,
 
 \[53\]
 
-quod per rationem à veritate separatum intelligitur, est quidem in se
+quod per rationem y veritate separatum intelligitur, est quidem in se
 verum: non enim re vera facta est separatio: sed non ut verum
-concipitur, quatenus intelligitur abstractum à veritate. **Nam ad
+concipitur, quatenus intelligitur abstractum y veritate. **Nam ad
 rationis distinctionem satis est, ut unum possit considerari sine
 alio**. Id hic fieri potest. Sicut enim res intelligitur ut nihilominus
 non intelligatur ejus intelligibilitas: ita & intelligi potest, ut tamen
@@ -6018,7 +6009,7 @@ moverentur, & non statim vi frigoris in aquam resolverentur. Possem
 plura afferre contra has Peripateticas aeris qualitates, nisi haec
 sufficiente veritatis studioso arbitrarer.
 
-## Sectio. VI. Globum terrestrem non moveri. 
+## Sectio 6. Globum terrestrem non moveri. 
 
 Quoniam de elementis hic agimus, tractanda est quorundam Astronomorum
 opinio de motu globi terrestris. Illi magis novitatis quam veritatis
@@ -6273,7 +6264,7 @@ sunt momenti. Gen. 1. 28. "Benedixit iis
 
 \[348\]
 
-Deus, & dixit eis, "faetificate ac augescite, ac implete terram". Item
+Deus, & dixit eis, 'faetificate ac augescite, ac implete terram'." Item
 Gen. 2. 2. "Requievit Deus ab omni opere suo, quod fecerat". Non enim
 per benedictionem dedit eis Deus facultatem producendi animam, sed ipse
 sese obligavit ad earum productionem, quoties tempus foret faetificandi,
