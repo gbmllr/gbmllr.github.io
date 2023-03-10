@@ -32,9 +32,9 @@ header_pages:
   - gorlaeus/gorlaeus.md
 
 # Build settings
-# theme: minima
+theme: minima
 # theme: tactile
- theme: minimal
+# theme: minimal
 # remote-theme: minima-reloaded
 # plugins:
 #  - jekyll-feed
