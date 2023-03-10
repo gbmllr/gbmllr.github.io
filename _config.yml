@@ -28,7 +28,7 @@ twitter_username: gbmllr
 github_username:  gbmllr
 
 header_pages:
-  - about.md
+  - about/about.md
   - gorlaeus/gorlaeus.md
 
 # Build settings
