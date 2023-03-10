@@ -4,7 +4,7 @@ title: Gorlaeus
 permalink: /gorlaeus/
 ---
 
-A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1621). It has been generated from an OCR of a scan available on google books.
+A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1621). It has been generated from an OCR of a scan available on google books. At the beginning of  each new page, the page umber is inserted in brackets. Obvious missing letters have also been added in brackets, whereas abbreviated words have been silently expanded. Ligatures have been generally dissolved (e.g. æ to ae) and accents removed. Page breaks reflect the layout of the source, as does *italicized* text. **Bold** emphasis is my addition.
 
 –
 
@@ -414,10 +414,10 @@ quid sint.
 Quare neque ab intellectu fingitur; sed eo etiam non cogitante datur:
 neque tota ejus essentia est esse ad aliud, aut in alio, sed suam
 
-[\[23\]](scrivcmt://26FB4CBF-7D9E-4AB5-923C-BB54CDC4F2DC)
+\[23\]
 
 [sibi propriam habet existentiam, per quam existit, non per
-alienam.](scrivcmt://26FB4CBF-7D9E-4AB5-923C-BB54CDC4F2DC) Sed **ens
+alienam.] Sed **ens
 rationis** est, quod ab **intellectu esse fingitur.** Hoc **etiam suam
 habet essentiam, per quam est id, quod est**. **Habet & caussam
 efficientem** hujus qualiscumque entitatis. Quum enim non semper eo sit
@@ -435,7 +435,7 @@ haec est ens** fictum.
 
 Idcirco in definitione diximus: ipsum entis
 
-[\[24\]](scrivcmt://BE79EF27-26BC-495A-9240-757734E160F3)
+\[24\]
 
 esse fingi. Exempli gratia hoc proferam: conceptum **asini** mens ex
 sensibus habet. Sicut & conceptum rei volantis: quod si hos jungat, per
