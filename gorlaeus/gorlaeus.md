@@ -4,7 +4,7 @@ title: Gorlaeus
 permalink: /gorlaeus/
 ---
 
-A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1621). It has been generated from an OCR of a scan available on google books. At the beginning of  each new page, the page umber is inserted in brackets. Obvious missing letters have also been added in brackets, whereas abbreviated words have been silently expanded. Ligatures have been generally dissolved (e.g. æ to ae) and accents removed. Page breaks reflect the layout of the source, as does *italicized* text. **Bold** emphasis is my addition.
+A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1621). It has been generated from an OCR of a scan available on google books. At the beginning of  each new page, the page number is inserted in brackets. Missing letters have also been added in brackets, whereas abbreviated words have been silently expanded. Ligatures have been generally dissolved (e.g. æ to ae) and accents removed. Page breaks reflect the layout of the source, as does *italicized* text. **Bold** emphasis is my addition.
 
 –
 
@@ -14,7 +14,7 @@ A working transcription of David Gorlaeus' *Exercitationes philosophicae* (1621)
 
 A contemplatione Philosophiae, nobis auspicandum est: neque enim deceret
 in & sapientiae palaestris sese exercitantem, eius ideam animo non prius
-induisse. Quamobrem logicorum ductum sequentes, initium recte ducemus à
+induisse. Quamobrem logicorum ductum sequentes, initium recte ducemus a
 definitione. Quod ut fiat vocis usum paucis cognoscamus, nempe cujus nam
 rei conceptus in mente figuretur audito Philosophiae nomine. Et enim qui
 hic latiorem aut angustiorem definitionem statuunt pro libito, non
