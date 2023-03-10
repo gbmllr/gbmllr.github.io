@@ -36,9 +36,9 @@ theme: minima
 # theme: tactile
 # theme: minimal
 # remote-theme: minima-reloaded
-# plugins:
-#  - jekyll-feed
-# markdown: Pandoc
+plugins:
+  - jekyll-feed
+markdown: Pandoc
 
 # pandoc:
 #  extensions:
