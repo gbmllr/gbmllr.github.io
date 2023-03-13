@@ -32,6 +32,7 @@ header_pages:
   - gorlaeus/gorlaeus.md
 
 # Build settings
+destination: gbmllr.github.io/
 theme: minima
 # theme: tactile
 # theme: minimal
@@ -40,11 +41,11 @@ plugins:
   - jekyll-feed
 markdown: Pandoc
 
-# pandoc:
-#  extensions:
-#    - mathjax
-#    - csl: C:\Users\muegab00\switchdrive\Uni\Lit\Zotero-data-custom\styles\chicago-note-bibliography-with-ibid.csl
-#    - bibliography: C:\Users\muegab00\switchdrive\Uni\Lit\Zotero-data-custom\zotero-to-zettlr.bib
+pandoc:
+  extensions:
+    - mathjax
+    - csl: C:\Users\muegab00\switchdrive\Uni\Lit\Zotero-data-custom\styles\chicago-note-bibliography-with-ibid.csl
+    - bibliography: C:\Users\muegab00\switchdrive\Uni\Lit\Zotero-data-custom\zotero-to-zettlr.bib
 
 # Exclude from processing.
 # The following items will not be processed, by default.
